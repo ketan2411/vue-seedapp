@@ -4,6 +4,7 @@
     <v-navigation-drawer
       v-model="drawer"
       app
+      
     >
       <v-list dense>
         <v-list-item link>
